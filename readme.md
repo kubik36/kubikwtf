@@ -38,24 +38,6 @@
 
 <br clear="both">
 
-<!-- CURRENT PROJECTS -->
-<h2 align="left">🔥 Current Projects</h2>
-
-<ul>
-  <li><b>HCChampions Network</b> >> Owner </li>
-  <li><b>Soupy </b> >> Owner</li>
-  <li><b>HavenMC</b> >> Developer / Web Dev</li>
-</ul>
-
-<!-- PAST PROJECTS -->
-<h2 align="left">📜 Previous Projects</h2>
-
-<ul>
-  <li><b>SagePvP Rebirth (sagepvp.cc)</b> >> Owner / Head-Developer </li>
-  <li><b>WildPvP</b> >> Owner / Head-Developer</li>
-  <li><b>Abstract.rip</b> >> Founder </li>
-</ul>
-
 <br clear="both">
 
 <!-- SNAKE -->
